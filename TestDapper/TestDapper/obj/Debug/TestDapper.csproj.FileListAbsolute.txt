@@ -1,0 +1,8 @@
+D:\temp\TestDapper\TestDapper\bin\Debug\TestDapper.exe.config
+D:\temp\TestDapper\TestDapper\bin\Debug\TestDapper.exe
+D:\temp\TestDapper\TestDapper\bin\Debug\TestDapper.pdb
+D:\temp\TestDapper\TestDapper\obj\Debug\TestDapper.csprojResolveAssemblyReference.cache
+D:\temp\TestDapper\TestDapper\obj\Debug\TestDapper.exe
+D:\temp\TestDapper\TestDapper\obj\Debug\TestDapper.pdb
+D:\temp\TestDapper\TestDapper\bin\Debug\Dapper.dll
+D:\temp\TestDapper\TestDapper\bin\Debug\Dapper.xml
