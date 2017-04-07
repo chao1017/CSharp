@@ -1,0 +1,17 @@
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\c_sharp_sqlite.exe.config
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\c_sharp_sqlite.exe
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\c_sharp_sqlite.pdb
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\EntityFramework.dll
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\EntityFramework.SqlServer.dll
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\System.Data.SQLite.dll
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\System.Data.SQLite.EF6.dll
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\System.Data.SQLite.Linq.dll
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\EntityFramework.xml
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\EntityFramework.SqlServer.xml
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\System.Data.SQLite.xml
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.csprojResolveAssemblyReference.cache
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.Form1.resources
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.Properties.Resources.resources
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.csproj.GenerateResource.Cache
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.exe
+D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.pdb
