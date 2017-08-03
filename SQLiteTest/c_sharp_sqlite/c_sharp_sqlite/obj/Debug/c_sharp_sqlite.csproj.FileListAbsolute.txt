@@ -15,3 +15,6 @@ D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.Proper
 D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.csproj.GenerateResource.Cache
 D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.exe
 D:\temp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.pdb
+D:\RogerGithub\CSharp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\bin\Debug\c_sharp_sqlite.exe.config
+D:\RogerGithub\CSharp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.exe
+D:\RogerGithub\CSharp\SQLiteTest\c_sharp_sqlite\c_sharp_sqlite\obj\Debug\c_sharp_sqlite.pdb
