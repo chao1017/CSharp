@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\ConsoleSendMail\\ConsoleSendMail\\ConsoleSendMail.csproj": {}
+    "D:\\GitHub\\CSharp\\ConsoleSendMail\\ConsoleSendMail\\ConsoleSendMail.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\ConsoleSendMail\\ConsoleSendMail\\ConsoleSendMail.csproj": {
+    "D:\\GitHub\\CSharp\\ConsoleSendMail\\ConsoleSendMail\\ConsoleSendMail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\ConsoleSendMail\\ConsoleSendMail\\ConsoleSendMail.csproj",
+        "projectUniqueName": "D:\\GitHub\\CSharp\\ConsoleSendMail\\ConsoleSendMail\\ConsoleSendMail.csproj",
         "projectName": "ConsoleSendMail",
-        "projectPath": "D:\\GitHub\\ConsoleSendMail\\ConsoleSendMail\\ConsoleSendMail.csproj",
+        "projectPath": "D:\\GitHub\\CSharp\\ConsoleSendMail\\ConsoleSendMail\\ConsoleSendMail.csproj",
         "packagesPath": "C:\\Users\\6551\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\ConsoleSendMail\\ConsoleSendMail\\obj\\",
+        "outputPath": "D:\\GitHub\\CSharp\\ConsoleSendMail\\ConsoleSendMail\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\6551\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s08wtpy2ZbI6z999t/hHE4pryQf7wMvmSbv1e+m5nPKXW7RVgz7XLqQfAWGXHv0e1njhbKrY6MqOaRXKScnypw==",
+  "dgSpecHash": "PE7GdZ7+5RxPVBdyUC6TVcAA7yK9swyiBCbCLBkXGlJmGyg2Ix3zuHbBf7m+tKlWAKpkyatea75IXX6TSKD53g==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\ConsoleSendMail\\ConsoleSendMail\\ConsoleSendMail.csproj",
+  "projectFilePath": "D:\\GitHub\\CSharp\\ConsoleSendMail\\ConsoleSendMail\\ConsoleSendMail.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

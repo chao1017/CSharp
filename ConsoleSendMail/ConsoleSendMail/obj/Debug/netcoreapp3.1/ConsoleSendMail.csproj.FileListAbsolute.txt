@@ -11,3 +11,16 @@ D:\GitHub\ConsoleSendMail\ConsoleSendMail\bin\Debug\netcoreapp3.1\ConsoleSendMai
 D:\GitHub\ConsoleSendMail\ConsoleSendMail\obj\Debug\netcoreapp3.1\ConsoleSendMail.dll
 D:\GitHub\ConsoleSendMail\ConsoleSendMail\obj\Debug\netcoreapp3.1\ConsoleSendMail.pdb
 D:\GitHub\ConsoleSendMail\ConsoleSendMail\obj\Debug\netcoreapp3.1\ConsoleSendMail.genruntimeconfig.cache
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\bin\Debug\netcoreapp3.1\ConsoleSendMail.exe
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\bin\Debug\netcoreapp3.1\ConsoleSendMail.deps.json
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\bin\Debug\netcoreapp3.1\ConsoleSendMail.runtimeconfig.json
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\bin\Debug\netcoreapp3.1\ConsoleSendMail.runtimeconfig.dev.json
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\bin\Debug\netcoreapp3.1\ConsoleSendMail.dll
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\bin\Debug\netcoreapp3.1\ConsoleSendMail.pdb
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\obj\Debug\netcoreapp3.1\ConsoleSendMail.csprojAssemblyReference.cache
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\obj\Debug\netcoreapp3.1\ConsoleSendMail.AssemblyInfoInputs.cache
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\obj\Debug\netcoreapp3.1\ConsoleSendMail.AssemblyInfo.cs
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\obj\Debug\netcoreapp3.1\ConsoleSendMail.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\obj\Debug\netcoreapp3.1\ConsoleSendMail.dll
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\obj\Debug\netcoreapp3.1\ConsoleSendMail.pdb
+D:\GitHub\CSharp\ConsoleSendMail\ConsoleSendMail\obj\Debug\netcoreapp3.1\ConsoleSendMail.genruntimeconfig.cache
